@@ -5,4 +5,5 @@ NIM : 245150407111084
 
 ## Screenshot Hasil
 
-![Hasil](img.png)
+![Hasil](app/src/main/res/img.png
+)
